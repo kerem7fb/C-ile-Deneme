@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\user\Desktop\10-M\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\user\Desktop\10-M\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\user\Desktop\10-M\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\user\Desktop\10-M\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\user\Desktop\10-M\deneme\deneme\obj\Debug\deneme.pdb
